@@ -1,0 +1,148 @@
+{
+    "games": [
+        {
+            "title": "RC: The Survival",
+            "subtitle": "2019 Summer #ue4jam",
+            "project": "rcsurvival",
+            "source": "https://github.com/KuroPSPiso/ue4jam-summer-2019",
+            "description": "",
+            "date": "2019",
+            "tags": ["BluePrint", "C++", "Unreal Engine 4", "Solo Development", "Game Jam"],
+            "play": "https://pspiso.itch.io/rc-the-survival",
+            "isVR": false,
+            "demo": null
+        },
+        {
+            "title": "Whack-A-Mole",
+            "subtitle": "Capgemini Coding Nights - CapAcade",
+            "project": "whackamole",
+            "source": "https://github.com/KuroPSPiso/Wack-a-Ponger-Office-Bully-",
+            "description": "",
+            "date": "2019",
+            "tags": ["C#", "Unity3d 2019", "WebGL", "Solo Development"],
+            "play": null,
+            "isVR": false,
+            "demo": null
+        },
+        {
+            "title": "B-Hop Clicker",
+            "subtitle": "GMTK Game Jam 2019 - ONE",
+            "project": "bhopclicker",
+            "source": "https://pspiso.itch.io/b-hop-clicker",
+            "description": "A game written in plain javascript and html moving and interacting with DOM elements. It is its own Javascript based Game Engine. Source is directly available as the game itself.",
+            "date": "2019",
+            "tags": ["C#", "Javascript", "HTML", "Game Jam", "Solo Development"],
+            "play": "https://pspiso.itch.io/b-hop-clicker",
+            "isVR": false,
+            "demo": null
+        },
+        {
+            "title": "Game Boy Emulator",
+            "subtitle": "Virtual Console Project (Failed)",
+            "project": "gameboy",
+            "source": "https://github.com/KuroPSPiso/GameBoy",
+            "description": "Only based on documentation available on the architecture will I create a Game Boy emulator. Like the Chip-8 Emulator an attempt for both C++ and C# will be made with a possible port to Unity. The C++ instance will only use a standard console, no video engine will be applied.",
+            "date": "2018",
+            "tags": ["C++", "C#", "Unity3d 2017", "WebGL", "Solo Development"],
+            "play": null,
+            "isVR": false,
+            "demo": null
+        },
+        {
+            "title": "Hook Up!",
+            "subtitle": "Global Game Jam 2018",
+            "project": "hookup",
+            "source": "https://github.com/KuroPSPiso/GGJ2018",
+            "description": "",
+            "date": "2018",
+            "tags": ["C#", "Unity3d 2017", "1 week", "Solo Development", "Game Jam"],
+            "play": "https://globalgamejam.org/2018/games/hook",
+            "isVR": false,
+            "demo": null
+        },
+        {
+            "title": "Chip-8 Emulator",
+            "subtitle": "Hardware Emulation Project",
+            "project": "chip8",
+            "source": "https://github.com/KuroPSPiso/EmulatorProjectChip-8",
+            "description": "I have always been wanting to help out emulator projects for the past decade, but I never had the skills or ability to achieve this goal. Having written a CHIP-8 emulator based on opensource material, the source has been rewritten from C++ to C# and integrated into Unity. ",
+            "date": "2017",
+            "tags": ["C#", "Unity3d 2017", "Solo Development"],
+            "play": null,
+            "isVR": false,
+            "demo": null
+        },
+        {
+            "title": "Russian Dancing Dead Man",
+            "subtitle": "College Innovation Game Jam - New Technology",
+            "project": "russiandancing",
+            "source": null,
+            "description": "<span class=\"bold\">REQUIRES 'RAZER HYDRA'.</span> Shoot all the russian dancing man, as much as you can.",
+            "date": "2018",
+            "tags": ["C#", "Unity3d 5", "2 Days", "Group Development", "Game Jam"],
+            "play": "https://pspiso.itch.io/russian-dancing-dead-man",
+            "isVR": false,
+            "demo": null
+        },
+        {
+            "title": "(Homage) God of War - VR",
+            "subtitle": "Pet Project (Deleted)",
+            "project": "gowvr",
+            "source": null,
+            "description": "<span class=\"bold\">REQUIRES 'OCULUS RIFT' OR 'HTC VIVE'.</span> A small fan project. Also the goal for me was to get more acquainted with using Unreal Engine 4 as I only got taught to use Unity3D. Sadly, after a hard-drive failure I lost almost all the models and or textures I had made for this project, as well as some of the UE4 project-files and blueprints (the HDD was less than 2 months old and didn't think of using a VCS). ",
+            "date": "2016",
+            "tags": ["BluePrint", "Unreal Engine 4", "Virtual Reality", "Solo Development", "2 weeks"],
+            "play": null,
+            "isVR": true,
+            "demo": null
+        },
+        {
+            "title": "Orb Hunter",
+            "subtitle": "Epic Games VR JAM, Stuttgart FMX",
+            "project": "orbhunter",
+            "source": "https://github.com/KuroPSPiso/FMX-Fontys",
+            "description": "<p>The winning game made in 4 days at FMX, Germany - \"Epic Games VRJam\" - 2016 </p><p>- VRFocus</p><a class=\"link\" href=\"https://www.vrfocus.com/2016/05/orb-hunter-wins-epic-games-fmx-vr-jam/\" target=\"_blank\">read more</a><p><span class=\"bold\">REQUIRES 'OCULUS RIFT DK2'.</span> Orb Hunter has been developed by 'Lex Brouwers', 'Frank Hartman' and I 'Ryan van den Bogaard' is the winning product of the Virtual Reality GameJam (\"What moves you?\") hosted by Epic Games at FMX (Stuttgart) in the mids of Spring 2016. Within a weeks time we had to learn and create a Unreal Engine 4 Game that would work with the Oculus DK2. In our game you do not need any controllers other than to own a Head-mounted Display. Our mechanic for executing movement is teleportation once you look down and basic body positioning with the tracking capabilities of the Oculus DK2s Infrared Camera.</p>",
+            "date": "2016",
+            "tags": ["BluePrint", "Unreal Engine 4", "Virtual Reality", "Game Jam", "Group Development", "1 week"],
+            "play": "https://gamejolt.com/games/fmx-epic-games-vrjam-2016-orb-hunter/149532",
+            "isVR": true,
+            "demo": null
+        },
+        {
+            "title": "Vert Leap",
+            "subtitle": "Pet Project",
+            "project": "vertleap",
+            "source": "https://github.com/KuroPSPiso/Racer",
+            "description": null,
+            "date": "2015",
+            "tags": ["C#", "Unity3D 4.6/5", "Solo Development", "20 weeks"],
+            "play": "https://pspiso.gamejolt.io/vert-leap",
+            "isVR": false,
+            "demo": null
+        },
+        {
+            "title": "Oh My GOD",
+            "subtitle": "College assignment",
+            "project": "ohmygod",
+            "source": null,
+            "description": null,
+            "date": "2015",
+            "tags": ["C#", "Unity3D 4.4", "Group Development", "10 weeks"],
+            "play": null,
+            "isVR": false,
+            "demo": null
+        },
+        {
+            "title": "Endless Runner",
+            "subtitle": "College assignment",
+            "project": "endlessrunner",
+            "source": null,
+            "description": "A 'Endless Runner' for a Android device. Inspired by Mirrors Edge to develop a first person endless runner, rather than a bog standard thirdperson version. This assignment must be finished under 10 weeks.",
+            "date": "2014",
+            "tags": ["C#", "Unity3D 4.3", "Solo Development", "10 weeks"],
+            "play": null,
+            "isVR": false,
+            "demo": null
+        }
+    ]
+}
